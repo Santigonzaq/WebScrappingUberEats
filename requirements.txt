@@ -1,0 +1,5 @@
+Pandas 
+numpy
+request
+beatifulsoup
+openpyxl
